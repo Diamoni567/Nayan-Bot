@@ -7,15 +7,15 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "DIA-BOT",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100033985473390",
+    "100087624185244"
   ],
   "ADMINBOT": [
-    "100000959749712",
-    ""
+    "100033985473390",
+    "100087624185244"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
